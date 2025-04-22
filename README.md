@@ -17,14 +17,12 @@
 ```javascript
 const Poojitha = {
   pronouns: "she" | "her",
-  Experience: [WIT Mentee'25 @Google, Research Intern @TechInnovate, Hackathon Winner @WomenWhoCode],
+  Experience: [WIT Mentee'25 @Google, Hackathon  @WomenWhoCode],
   code: [Javascript, Python, React, Java, C++, HTML, CSS, SQL],
   tools: [React, Express, Node, TensorFlow, Jupyter, Figma, Docker],
   architecture: ["frontend development", "data analysis", "user experience design"],
   techCommunities: {
-                      member: "Women in Tech",
-                      speaker: "GirlsWhoCode",
-                      mentor: "CodingGirlsClub"
+                      member: "Women in Tech"
                    },
  Hobbies: " 🎨 Digital Art && 🎵 Music Production && 📊 Data Visualization "
 }
