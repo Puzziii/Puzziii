@@ -18,7 +18,7 @@ const Poojitha = {
   techCommunities: {
                       member: "Women in Tech"
                    },
- Hobbies: "  "
+ Hobbies: " Travel, Books  "
 }
 ```
 
@@ -30,8 +30,7 @@ const Poojitha = {
   <a href="https://github.com/Poojitha-dev">
     <img alt="Poojitha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Poojitha-dev&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=D9A0FF&rank_icon=github&icon_color=F8D866" height="150px"/>
   </a>
-  <a href="https://github.com/Poojitha-dev">
-    <img alt="Poojitha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojitha-dev&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=D9A0FF&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="150px"/>
+  
   </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -39,6 +38,4 @@ const Poojitha = {
 
 [![Poojitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Puzziii&bg_color=1F222E&color=F8D866&line=D9A0FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Puzziii/github-readme-activity-graph)
 
-<h3 align="center">Visitor's count</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{Puzziii}/count.svg/" alt="Puzziii Visitor's count" /></p>
 
