@@ -20,23 +20,12 @@ const Poojitha = {
 }
 ```
 
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Puzziii)](https://git.io/streak-stats)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with diverse communities</b> so if you want to say <b>hi, I'll be happy to collaborate!</b> :)</em>
 
-
-## 🔥 GitHub stats:
-<p align="center">
-  <a href="https://github.com/Poojitha-dev">
-    <img alt="Poojitha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Poojitha-dev&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=D9A0FF&rank_icon=github&icon_color=F8D866" height="150px"/>
-  </a>
-  
-  </a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-
-[![Poojitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Puzziii&bg_color=1F222E&color=F8D866&line=D9A0FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Puzziii/github-readme-activity-graph)
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Puzziii&theme=tokyo-night)](https://github.com/Puzziii)
+---
 
