@@ -3,8 +3,6 @@
 <p><em>Undergrad Studet</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring :Open Source Contribution & web3<img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: Poojitha](https://x.com/trusfratedpuzz)
-[![Linkedin: Poojitha](https://img.shields.io/badge/-Poojithag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/poojitha-g-516652300/)](https://www.linkedin.com/in/poojitha-g-516652300/) &nbsp;&nbsp;
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -21,6 +19,9 @@ const Poojitha = {
  Hobbies: " Travel, Books  "
 }
 ```
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Puzziii)](https://git.io/streak-stats)
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with diverse communities</b> so if you want to say <b>hi, I'll be happy to collaborate!</b> :)</em>
 
