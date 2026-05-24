@@ -41,11 +41,11 @@ const Poojitha = {
     <img src="https://img.shields.io/badge/GitHub-Puzziii-161b22?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/poojitha">
+  <a href="www.linkedin.com/in/poojitha-gowrishankar-516652300">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:poojitha@example.com">
+  <a href="mailto:poojithag102@example.com">
     <img src="https://img.shields.io/badge/Email-Say_Hi-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
