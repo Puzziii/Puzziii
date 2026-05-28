@@ -4,6 +4,7 @@
 </em></p>
 <br>
 
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
@@ -48,10 +49,6 @@ const Poojitha = {
   <a href="mailto:poojithag102@example.com">
     <img src="https://img.shields.io/badge/Email-Say_Hi-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-<br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Puzziii&label=Profile+Views&color=a371f7&style=flat-square" />
 </p>
 
  
