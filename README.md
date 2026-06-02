@@ -1,7 +1,6 @@
 <h2> Hi, I'm Poojitha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="240">
-<p><em>Undergrad Studet</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> 🔍 Currently exploring :Open Source Contribution & web3<img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="30"> 
-</em></p>
+ <p><em>Undergrad Studet</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>🔍 Currently exploring :Open Source Contribution & web3
 <br>
 
 
