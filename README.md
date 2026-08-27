@@ -24,13 +24,9 @@ const Poojitha = {
 ---
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Puzziii)](https://git.io/streak-stats)
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with diverse communities</b> so if you want to say <b>hi, I'll be happy to collaborate!</b> :)</em>
-<br>
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Puzziii&theme=tokyo-night)](https://github.com/Puzziii)
-### 🌐 Let's Connect
+🌐 Let's Connect
  
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" />
